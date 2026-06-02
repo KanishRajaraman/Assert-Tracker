@@ -1,0 +1,1 @@
+import{j as s}from"./index-BcUJu-lH.js";function l({title:e,children:a,action:n,className:r=""}){return s.jsxs("section",{className:`panel ${r}`,children:[s.jsxs("div",{className:"panel-header",children:[s.jsx("span",{children:e}),n]}),s.jsx("div",{className:"p-4",children:a})]})}export{l as P};
